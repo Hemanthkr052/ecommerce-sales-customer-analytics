@@ -46,10 +46,32 @@ The objective is to transform raw transactional data into meaningful business in
 
 ## Project Structure
 
-- SQL_Analysis – SQL queries and analytical views
-- Python_Analysis – Python scripts and generated analysis files
-- PowerBI – Interactive dashboard
-- README.md – Project documentation
+```text
+ecommerce-sales-customer-analytics/
+├── SQL_analysis/
+│   ├── customer_analysis.sql
+│   ├── delivery_analysis.sql
+│   ├── payment_analysis.sql
+│   ├── product_analysis.sql
+│   ├── review_analysis.sql
+│   ├── rfm_analysis.sql
+│   ├── sales_analysis.sql
+│   └── seller_analysis.sql
+├── Python_analysis/
+│   ├── data_loading.py
+│   ├── data_cleaning.py
+│   ├── data_exploration.py
+│   ├── sales_analysis.py
+│   ├── customer_analysis.py
+│   ├── business_insights.py
+│   ├── visualization scripts
+│   └── charts
+├── PowerBI/
+│   └── Ecommerce_Sales_Customer_Analytics.pbix
+├── .gitignore
+├── requirements.txt
+└── Readme.md
+```
 
 ## Conclusion
 
