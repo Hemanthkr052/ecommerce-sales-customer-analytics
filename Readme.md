@@ -68,11 +68,31 @@ ecommerce-sales-customer-analytics/
 │   └── charts
 ├── PowerBI/
 │   └── Ecommerce_Sales_Customer_Analytics.pbix
+├── Screenshots/
+│   ├── Customer Analysis Dashboard.png
+│   ├── Delivery and Reviews.png
+│   ├── Executive Overview.png
+│   └── Product and Seller Analysis.png
 ├── .gitignore
 ├── requirements.txt
 └── Readme.md
+
 ```
 
+
+## Power BI Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview](Screenshots/Executive%20Overview.png)
+
+### 2. Product & Seller Analysis
+![Product and Seller Analysis](Screenshots/Product%20and%20Seller%20Analysis.png)
+
+### 3. Customer Analysis
+![Customer Analysis](Screenshots/Customer%20Analysis%20Dashboard.png)
+
+### 4. Delivery & Reviews
+![Delivery and Reviews](Screenshots/Delivery%20and%20Reviews.png)
 ## Conclusion
 
 This project demonstrates an end-to-end data analytics workflow, from relational database analysis and Python-based exploration to interactive dashboard development.
